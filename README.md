@@ -2,7 +2,7 @@
 A machine learning project for predicting dog breeds from images. Utilizing deep learning algorithms, this project offers accurate classification of dog breeds, making it a valuable tool for pet enthusiasts, veterinarians, and animal shelters.
 Certainly! Here's the README file content for the dog breed prediction project:
 
-```
+...
 # Dog Breed Prediction
 
 ## Introduction
@@ -40,7 +40,7 @@ Special thanks to the Kaggle community for providing the source code and inspira
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-```
+This project is licensed under the MIT  License - see the [LICENSE.md](LICENSE.md) file for details.
+
 
 
